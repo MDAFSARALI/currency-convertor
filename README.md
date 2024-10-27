@@ -1,6 +1,6 @@
 # A Currency convertor 
 
-> This is just a react based currency convertor with the help of tailwind css for styling point purpose
+> This is just a react based currency convertor with the help of tailwind css for styling  purpose
 
 Thanks 
 
